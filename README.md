@@ -1,7 +1,6 @@
 ## On Second Thought, Let's Not Think Step by Step: Bias and Toxicity in Zero-Shot Reasoning
 
-This repository contains source code for the paper **On Second Thought, Let's Not Think Step by Step: Bias and Toxicity in Zero-Shot Reasoning
-**by [Omar Shaikh](https://oshaikh.com/), [Hongxin Zhang](https://scholar.google.com/citations?user=WM-qkBgAAAAJ&hl=en), [Will Held](), [Michael Bernstein](https://hci.stanford.edu/msb/), and [Diyi Yang](https://cs.stanford.edu/~diyiy/). Feel free to reach out to [Omar Shaikh](https://oshaikh.com/) with any questions!
+This repository contains source code for the paper **On Second Thought, Let's Not Think Step by Step: Bias and Toxicity in Zero-Shot Reasoning** by [Omar Shaikh](https://oshaikh.com/), [Hongxin Zhang](https://scholar.google.com/citations?user=WM-qkBgAAAAJ&hl=en), [Will Held](), [Michael Bernstein](https://hci.stanford.edu/msb/), and [Diyi Yang](https://cs.stanford.edu/~diyiy/). Feel free to reach out to [Omar Shaikh](https://oshaikh.com/) with any questions!
 
 [[Paper]](https://arxiv.org/pdf/2212.08061.pdf)
 
